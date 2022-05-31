@@ -14,8 +14,11 @@
 - TrenchBroom
 
 ## Games
+![Super Rocket Defender](/assets/images/superrocketdefender.png)
 - [Super Rocket Defender](https://play.google.com/store/apps/details?id=com.AnttiRonkkaGames.SuperRocketDefender)
+![Captain Newton](/assets/images/captainnewton.png)
 - [Captain Newton](https://play.google.com/store/apps/details?id=com.anttironkkadev.mox)
+![Everyday Wizard](/assets/images/everydaywizard.png)
 - [Everyday Wizard - Prototype](https://anttironkkagames.itch.io/everydaywizard)
 
 ## Links
