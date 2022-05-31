@@ -8,7 +8,7 @@
 ## Games
 - [Super Rocket Defender](https://play.google.com/store/apps/details?id=com.AnttiRonkkaGames.SuperRocketDefender)
 - [Captain Newton](https://play.google.com/store/apps/details?id=com.anttironkkadev.mox)
-
+- [Everyday Wizard - Prototype](https://anttironkkagames.itch.io/everydaywizard)
 
 ## Links
 - [itch.io](https://anttironkkagames.itch.io/)
