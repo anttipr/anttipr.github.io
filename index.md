@@ -20,11 +20,11 @@
 
 ![Super Rocket Defender](/assets/images/superrocketdefender.png)
 
-- [Super Rocket Defender](https://play.google.com/store/apps/details?id=com.AnttiRonkkaGames.SuperRocketDefender)
+- [Super Rocket Defender](https://anttironkkagames.itch.io/super-rocket-defender)
 
 ![Captain Newton](/assets/images/captainnewton.png)
 
-- [Captain Newton](https://play.google.com/store/apps/details?id=com.anttironkkadev.mox)
+- [Captain Newton](https://anttironkkagames.itch.io/captain-newton)
 
 ![Everyday Wizard](/assets/images/everydaywizard.png)
 
