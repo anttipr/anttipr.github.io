@@ -1,6 +1,7 @@
 # Antti Rönkkä (anttipr)
 
 ## About me
+- Test Engineer
 - Hobbyist gamedev from Finland
 - Released 3 Android games made with Unity
 - Currently working FPS game KAUNA with Godot Engine for PC (Linux/Windows)
@@ -12,6 +13,13 @@
 - GIMP
 - Blender
 - TrenchBroom
+
+## Skills
+-Python
+-GDScript
+-C#
+-Java
+-Linux
 
 ## Games
 ![KAUNA](/assets/images/kauna.png)
