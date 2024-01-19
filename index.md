@@ -15,11 +15,11 @@
 - TrenchBroom
 
 ## Skills
--Python
--GDScript
--C#
--Java
--Linux
+- Python
+- GDScript
+- C#
+- Java
+- Linux
 
 ## Games
 ![KAUNA](/assets/images/kauna.png)
