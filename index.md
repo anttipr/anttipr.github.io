@@ -24,6 +24,8 @@
 ## Games
 ![KAUNA](/assets/images/kauna.png)
 
+<iframe frameborder="0" src="https://itch.io/embed/1040190" width="552" height="167"><a href="https://anttironkkagames.itch.io/kauna">KAUNA by anttironkkagames</a></iframe>
+
 - [KAUNA](https://anttironkkagames.itch.io/kauna)
 
 ![Super Rocket Defender](/assets/images/superrocketdefender.png)
