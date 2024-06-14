@@ -22,21 +22,20 @@
 - Linux
 
 ## Games
-![KAUNA](/assets/images/kauna.png)
 
 <iframe frameborder="0" src="https://itch.io/embed/1040190" width="552" height="167"><a href="https://anttironkkagames.itch.io/kauna">KAUNA by anttironkkagames</a></iframe>
 
 - [KAUNA](https://anttironkkagames.itch.io/kauna)
 
-![Super Rocket Defender](/assets/images/superrocketdefender.png)
+<iframe frameborder="0" src="https://itch.io/embed/659590" width="552" height="167"><a href="https://anttironkkagames.itch.io/super-rocket-defender">Super Rocket Defender by anttironkkagames</a></iframe>
 
 - [Super Rocket Defender](https://anttironkkagames.itch.io/super-rocket-defender)
 
-![Captain Newton](/assets/images/captainnewton.png)
+<iframe frameborder="0" src="https://itch.io/embed/119861" width="552" height="167"><a href="https://anttironkkagames.itch.io/captain-newton">Captain Newton by anttironkkagames</a></iframe>
 
 - [Captain Newton](https://anttironkkagames.itch.io/captain-newton)
 
-![Everyday Wizard](/assets/images/everydaywizard.png)
+<iframe frameborder="0" src="https://itch.io/embed/169853" width="552" height="167"><a href="https://anttironkkagames.itch.io/everydaywizard">Everyday Wizard - A Trivia Quest by anttironkkagames</a></iframe>
 
 - [Everyday Wizard - Prototype](https://anttironkkagames.itch.io/everydaywizard)
 
