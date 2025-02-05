@@ -41,5 +41,4 @@
 
 ## Links
 - [itch.io](https://anttironkkagames.itch.io/)
-- [twitter](https://twitter.com/anttipr)
 - [Bluesky](https://bsky.app/profile/anttironkka.bsky.social)
